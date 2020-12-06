@@ -19,14 +19,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
- എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help
-
-എന്നെ നിർമിച്ചത് [bughunter0](tg://user?id=778307700) ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
-python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്..
-Source code ലഭിക്കുവാൻ @bughunterbots അവിടെ വരുക,
-
-Im a Rules Adder Bot, My purpose is to help Admins Add rules to specific group,
-Consider Adding me as a Group Admin 
+ Thank God I'm Up , Join @BughunterBots For My source code , Designed to Add, Show And Delete Rules in A Group.
+Consider Joining @BugHunterBots For Further Enquiry
 """
 
 HELP_STRINGS = """
