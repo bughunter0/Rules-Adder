@@ -34,10 +34,10 @@ HELP_STRINGS = """
 *Main* ലഭ്യമായ commandകൾ:
  - /start: Botന് ജീവനുണ്ടോ എന്നറിയാൻ...
  - /help: ഈ മെസ്സേജ് നിങ്ങളുടെ PM വരാൻ....
- - /rules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ നേടുക.
+ - /showrules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ നേടുക.
 Admin only:
- - /setrules <your rules here>:  ഈ ചാറ്റിനായി നിയമങ്ങൾ സജ്ജമാക്കുക.
- - /clearrules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ‌ മായ്‌ക്കുക.
+ - /addrules <your rules here>:  ഈ ചാറ്റിനായി നിയമങ്ങൾ സജ്ജമാക്കുക.
+ - /delrules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ‌ മായ്‌ക്കുക.
 
 {}
 And the following:
