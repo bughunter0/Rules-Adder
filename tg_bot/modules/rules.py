@@ -97,11 +97,11 @@ __help__ = """
  - /rules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ നേടുക.
 
 *Admin only:*
- - /setrules <your rules here>:  ഈ ചാറ്റിനായി നിയമങ്ങൾ സജ്ജമാക്കുക.
- - /clearrules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ‌ മായ്‌ക്കുക.
+ - /addrules <your rules here>: To set Rules in a Group.
+ - /delrules: To Delete all Rules Previously Added.
 """
 
-__mod_name__ = "Rules"
+__mod_name__ = "Add Rules"
 
 GET_RULES_HANDLER = CommandHandler("showrules", get_rules, filters=Filters.group)
 SET_RULES_HANDLER = CommandHandler("addrules", set_rules, filters=Filters.group)
